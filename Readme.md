@@ -6,7 +6,6 @@
 Step6
 Execute main.py
 
-![WhatsApp Image 2023-08-14 at 2 52 59 AM](https://github.com/divyanshujain11/divyanshujain11_Docker_inside_PythonProgram_pyttsx3/assets/77712311/66e20487-57ef-4cad-ac83-2f24801c3a06)
 
 but you faccing a problem of libspeak1 module  when you execute this file, so have to install it.
 
@@ -49,7 +48,8 @@ Step 6: The Grand Finale - main.py 🎉
 Step 7: Curtain Call: Lights, Camera, Action! 📽️
 
 
-![WhatsApp Image 2023-08-14 at 2 49 02 AM](https://github.com/divyanshujain11/divyanshujain11_Docker_inside_PythonProgram_pyttsx3/assets/77712311/8a66f2a4-7e0f-45f3-8c42-75a440ee5fb0)
+![WhatsApp Image 2023-08-14 at 2 52 59 AM](https://github.com/divyanshujain11/divyanshujain11_Docker_inside_PythonProgram_pyttsx3/assets/77712311/66e20487-57ef-4cad-ac83-2f24801c3a06)
+
 
 🎭 The Plot Twist: Conquering libspeak1
 But wait, just as the crescendo builds, a challenge arises! When the moment of truth arrives, the elusive libspeak1 module takes center stage, throwing us a curveball. Fear not, for every hero's journey includes a hurdle to overcome.
