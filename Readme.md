@@ -1,18 +1,4 @@
 
-
-
-
-
-Step6
-Execute main.py
-
-
-but you faccing a problem of libspeak1 module  when you execute this file, so have to install it.
-
-
-
-
-
 Docker Inside Python: Unleashing the Power of pyttsx3 and Libspeak1
 Welcome to the thrilling journey of seamlessly integrating Docker with Python to create a harmonious symphony of technology. Imagine orchestrating containers like a maestro, crafting a symphony of code that not only runs but speaks its essence aloud. Here's your backstage pass to an innovative fusion of Docker, Python, and the enchanting pyttsx3 library.
 
